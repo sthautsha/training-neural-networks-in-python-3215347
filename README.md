@@ -33,3 +33,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/training-neural-networks-in-python-17058600
 [lil-thumbnail-url]: https://cdn.lynda.com/course/3215347/3215347-1667864479246-16x9.jpg
 [gcs-video-url]: https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/using-github-codespaces-with-this-course
+new
